@@ -7,7 +7,7 @@ Beautiful responsive portfolio style template for designers and web developers
 ![preview](http://i.imgur.com/9Nz6Ib9.jpg)
 
 ## Demo
-Find a demo [here](/jekyll-slender-template/portfolio.png)
+Find a demo [here](/portfolio.png)
 
 ## Contributing
 
